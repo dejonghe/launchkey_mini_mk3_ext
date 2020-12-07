@@ -200,38 +200,54 @@ Map	Cliplaunch 1		Record Sample
 
 Scope	Propellerheads	Thor Polysonic Synthesizer
 //	Control Surface Item	Key	Remotable Item	Scale	Mode	Groups
-Map	Device Knob 1	Rotary 1
-Map	Device Knob 2	Rotary 2
-Map	Device Knob 3	Osc 1 And 2 Balance
-Map	Device Knob 4	Shaper Drive
-Map Device Knob 5	Osc 1 Type
-Map Device Knob 6	Osc 1 Oct
-Map Device Knob 7	Osc 1 Semi
-Map Device Knob 8	Osc 1 Kbd
-Map Volume Knob 1	Osc 2 Type
-Map Volume Knob 2	Osc 2 Oct
-Map Volume Knob 3	Osc 2 Semi
-Map Volume Knob 4	Osc 2 Kbd
-Map Volume Knob 5	Osc 3 Type
-Map Volume Knob 6	Osc 3 Oct
-Map Volume Knob 7	Osc 3 Semi
-Map Volume Knob 8	Osc 3 Kbd
-Map Pan Knob 1	Filter 1 Drive
-Map Pan Knob 2	Filter 1 Freq
-Map Pan Knob 3	Filter 1 Env Amount
-Map Pan Knob 4	Filter 1 Res
-Map Pan Knob 5	Filter 2 Drive
-Map Pan Knob 6	Filter 2 Freq
-Map Pan Knob 7	Filter 2 Env Amount
-Map Pan Knob 8	Filter 2 Res
-Map Send A Knob 1	Filter Env Attack
-Map Send A Knob 2	Filter Env Decay
-Map Send A Knob 3	Filter Env Sustain
-Map Send A Knob 4	Filter Env Release
-Map Send A Knob 5	Amp Env Attack
-Map Send A Knob 6	Amp Env Decay
-Map Send A Knob 7	Amp Env Sustain
-Map Send A Knob 8	Amp Env Release
+Map	Device Knob 1		Rotary 1
+Map	Device Knob 2		Rotary 2
+Map	Device Knob 3		Osc 1 And 2 Balance
+Map	Device Knob 4		Shaper Drive
+Map	Device Knob 5		Osc 1 Param B
+Map	Device Knob 6		Osc 1 Oct
+Map	Device Knob 7		Osc 1 Semi
+Map	Device Knob 8		Osc 1 Kbd
+Map	Volume Knob 1		Osc 2 Param B
+Map	Volume Knob 2		Osc 2 Oct
+Map	Volume Knob 3		Osc 2 Semi
+Map	Volume Knob 4		Osc 2 Kbd
+Map	Volume Knob 5		Osc 3 Param B
+Map	Volume Knob 6		Osc 3 Oct
+Map	Volume Knob 7		Osc 3 Semi
+Map	Volume Knob 8		Osc 3 Kbd
+Map	Pan Knob 1		Filter 1 Drive
+Map	Pan Knob 2		Filter 1 Freq
+Map	Pan Knob 3		Filter 1 Env Amount
+Map	Pan Knob 4		Filter 1 Res
+Map	Pan Knob 5		Filter 2 Drive
+Map	Pan Knob 6		Filter 2 Freq
+Map	Pan Knob 7		Filter 2 Env Amount
+Map	Pan Knob 8		Filter 2 Res
+Map	Send A Knob 1		Pattern Step Knob 1
+Map	Send A Knob 2		Pattern Step Knob 2
+Map	Send A Knob 3		Pattern Step Knob 3
+Map	Send A Knob 4		Pattern Step Knob 4
+Map	Send A Knob 5		Pattern Step Knob 5
+Map	Send A Knob 6		Pattern Step Knob 6
+Map	Send A Knob 7		Pattern Step Knob 7
+Map	Send A Knob 8		Pattern Step Knob 8
+Map	Send B Knob 1		Pattern Step Knob 9
+Map	Send B Knob 2		Pattern Step Knob 10
+Map	Send B Knob 3		Pattern Step Knob 11
+Map	Send B Knob 4		Pattern Step Knob 12
+Map	Send B Knob 5		Pattern Step Knob 13
+Map	Send B Knob 6		Pattern Step Knob 14
+Map	Send B Knob 7		Pattern Step Knob 15
+Map	Send B Knob 8		Pattern Step Knob 16
+Map	Custom Knob 1		Filter Env Attack
+Map	Custom Knob 2		Filter Env Decay
+Map	Custom Knob 3		Filter Env Sustain
+Map	Custom Knob 4		Filter Env Release
+Map	Custom Knob 5		Amp Env Attack
+Map	Custom Knob 6		Amp Env Decay
+Map	Custom Knob 7		Amp Env Sustain
+Map	Custom Knob 8		Amp Env Release
 Map	Drum Pad 1		Pattern Step Gate 1
 Map	Drum Pad 2		Pattern Step Gate 2
 Map	Drum Pad 3		Pattern Step Gate 3
